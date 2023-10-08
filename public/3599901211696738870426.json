@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143520103221",
+    "project_id": "bussid-terlengkap",
+    "storage_bucket": "bussid-terlengkap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143520103221:android:285f4d0cb57125aa1b6a7c",
+        "android_client_info": {
+          "package_name": "com.terlengkap.bussid2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143520103221-ieng3uecin6aof2vp34jpnacncdgg626.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWjyC_CoTF05C5aMum8gSjSoCU7nUJtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143520103221-ieng3uecin6aof2vp34jpnacncdgg626.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
